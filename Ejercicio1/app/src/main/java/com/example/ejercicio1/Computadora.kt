@@ -1,6 +1,7 @@
 package com.example.ejercicio1
 
 import android.util.Log
+import org.jetbrains.annotations.TestOnly
 
 class Computadora(
     //Properties
